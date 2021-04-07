@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina de prueba</title>
+    <style>
+        h1{
+            color: sandybrown;
+            }
+        h2{
+            color:rebeccapurple;
+        }
+    </style>
+</head>
+<body>
+    <p>Hola este es mi primer intento de codear una web</p>
+    <h1>ChernoKustom</h1>
+    <a href="https://www.instagram.com/chernokustom/">instagram</a>
+    <div>
+        <h2>Otras Redes</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis id vitae sit error necessitatibus quasi minus accusantium dolorum nostrum excepturi veniam tempora sapiente possimus reprehenderit a exercitationem ipsum, doloremque soluta.</p>
+    </div>
+</body>
+</html>
